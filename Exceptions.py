@@ -1,0 +1,2 @@
+class EmptyGeneration(Exception):
+	pass
